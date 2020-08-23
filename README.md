@@ -1,2 +1,2 @@
 # ViewModelDemo
-The app will demo the ViewModel 
+The app will demo the how to use the ViewModel in android. 
